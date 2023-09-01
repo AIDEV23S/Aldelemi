@@ -1,0 +1,2 @@
+Jag har hållt på med lite programmering i gymnasiet och det va c++, html och css.
+Mitt mål med kursen är att jag får en bra grund med python så jag kan lyckas med kursen när vi kommer till det avancerade nivåerna.
